@@ -1,0 +1,10 @@
+.set1{
+  font-weight: bold;
+  margin: 10px 10px 0px 0px;
+}
+.set1:hover{
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+
